@@ -34,7 +34,7 @@ This dashboard helps identify system bottlenecks and provides data-driven recomm
 | 📊 Executive      | [Executive](Images/Executive.jpeg) |
 | 💰 Failure    | [Failure](Images/Failure.jpeg) |
 | 📦 Location  | [Location](Images/Location.jpeg) |
-| 📣 Transaction Profile  | [Transaction Profile](https://github.com/SENTHAMILAN27/Transaction_analytics/blob/01f567bd5b949b9abb6be5cc1efa84dfa0e51a1e/Images/Transaction%20Profile.jpeg))
+| 📣 Transaction Profile  | [Transaction Profile](https://github.com/SENTHAMILAN27/Transaction_analytics/blob/01f567bd5b949b9abb6be5cc1efa84dfa0e51a1e/Images/Transaction%20Profile.jpeg)
 | 🧠 Anomly | [Anomaly](Images/Anomaly.jpeg  )|
 | Recommendation|[Recommendation](Images/Recommendations.jpeg)
 ## 👤 Author
