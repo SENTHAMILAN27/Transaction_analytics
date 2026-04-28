@@ -35,7 +35,7 @@ This dashboard helps identify system bottlenecks and provides data-driven recomm
 | 💰 Failure    | [Sales](Images/Sales.jpg) |
 | 📦 Location  | [Marketing](Images/Marketing.jpg) |
 | 📣 Transaction Profile  | [Supply chain](Images/SupplyChain.jpg) |
-| 🧠 Anomly | [Executive]|Images/Anomaly.jpeg
+| 🧠 Anomly |Images/Anomaly.jpeg |
 | Recommendation|[Executive](Images/Executive.jpg)
 ## 👤 Author
 Senthamilan A
