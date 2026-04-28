@@ -30,12 +30,12 @@ This dashboard helps identify system bottlenecks and provides data-driven recomm
 
 | Page         | Preview |
 |--------------|---------|
-| 🏠 Home       | [Home](Images/Home.jpg) |
-| 📊 Executive      | [Finance](Images/Finance.jpg) |
-| 💰 Failure    | [Sales](Images/Sales.jpg) |
-| 📦 Location  | [Marketing](Images/Marketing.jpg) |
-| 📣 Transaction Profile  | [Supply chain](Images/SupplyChain.jpg) |
+| 🏠 Home       | [Home](Images/Home.jpeg) |
+| 📊 Executive      | [Executive](Images/Executive.jpeg) |
+| 💰 Failure    | [Failure](Images/Failure.jpeg) |
+| 📦 Location  | [Location](Images/Location.jpeg) |
+| 📣 Transaction Profile  |[Transaction Profile](Images/Transaction Profile.jpeg) |
 | 🧠 Anomly | [Anomaly](Images/Anomaly.jpeg  )|
-| Recommendation|[Executive](Images/Executive.jpg)
+| Recommendation|[Recommendation](Images/Recommendations.jpeg)
 ## 👤 Author
 Senthamilan A
