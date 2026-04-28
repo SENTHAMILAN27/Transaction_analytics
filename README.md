@@ -101,6 +101,7 @@ Applied two-layer anomaly detection:
 ## 🖼️ Dashboard Preview
 
 | Page         | Preview |
+| 🏠 Landing Page | [Landing Page](Images/Landing Page.jpeg) |
 |--------------|---------|
 | 🏠 Home       | [Home](Images/Home.jpeg) |
 | 📊 Executive      | [Executive](Images/Executive.jpeg) |
