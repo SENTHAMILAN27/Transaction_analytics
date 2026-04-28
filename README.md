@@ -26,8 +26,16 @@ This project analyzes 598K+ payment transactions across ATM, POS, and Online cha
 ## 📌 Business Impact
 This dashboard helps identify system bottlenecks and provides data-driven recommendations to reduce transaction failures and improve customer experience.
 
-## 📷 Dashboard Preview
-(Add your screenshots here)
+## 🖼️ Dashboard Preview
 
+| Page         | Preview |
+|--------------|---------|
+| 🏠 Home       | [Home](Images/Home.jpg) |
+| 📊 Executive      | [Finance](Images/Finance.jpg) |
+| 💰 Failure    | [Sales](Images/Sales.jpg) |
+| 📦 Location  | [Marketing](Images/Marketing.jpg) |
+| 📣 Transaction Profile  | [Supply chain](Images/SupplyChain.jpg) |
+| 🧠 Anomly | [Executive](Images/Executive.jpg) |
+| Recommendation|[Executive](Images/Executive.jpg)
 ## 👤 Author
 Senthamilan A
