@@ -7,7 +7,7 @@ across ATM, Online, and POS channels over 2 years
 (January 2023 – December 2024).
 
 ## Dashboard Preview
-![Dashboard Preview](preview.png)
+![Dashboard Preview](https://github.com/SENTHAMILAN27/Transaction_analytics/blob/be5bcde22246ebc6d9841e4927c049bf20e41fbf/Images/Landing%20Page.jpeg)
 
 ## 🔍 Key Findings
 
