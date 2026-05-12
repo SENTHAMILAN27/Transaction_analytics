@@ -101,7 +101,7 @@ Applied two-layer anomaly detection:
 ## 🖼️ Dashboard Preview
 
 | Page         | Preview |
-| 🏠 Landing Page | [Landing Page](Images/Landing Page.jpeg) |
+| 🏠 Landing Page | [Landing Page](https://github.com/SENTHAMILAN27/Transaction_analytics/blob/8321eecf38994baff0f14ac079cbc189c33058f3/Images/Landing%20Page.jpeg) |
 |--------------|---------|
 | 🏠 Home       | [Home](Images/Home.jpeg) |
 | 📊 Executive      | [Executive](Images/Executive.jpeg) |
