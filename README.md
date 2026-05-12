@@ -114,4 +114,3 @@ Applied two-layer anomaly detection:
 ## 👤 Author
 **Senthamilan A** — Data Analyst  
 LinkedIn Profile URL :  https://www.linkedin.com/in/senthamilan27/
-LinkedIn Video Presentation :https://www.linkedin.com/posts/senthamilan27_powerbi-dataanalytics-businessintelligence-ugcPost-7459848085523939328-Ou0r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEol-H8BJHDIx9ZD_9_SnujWhvQ3-0Z4VHU
